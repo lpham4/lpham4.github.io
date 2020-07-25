@@ -1,0 +1,23 @@
+#header {
+        font-family: Didot;
+        text-align: center;
+
+    }
+    #about {
+        font-family: "Avenir Next";
+        padding-right: 8cm;
+        padding-left: 17cm;
+        text-align: justify;
+    }
+    #pic {
+        height: 450px;
+        width: 300px;
+        position: absolute;
+    }
+    #picture {
+        padding-left: 8cm;
+    }
+    a {
+        color: black;
+        font-weight: bold;
+    }
