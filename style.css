@@ -1,9 +1,12 @@
-#header {
-    font-family: Didot;
-    text-align: center;
-
+html {
+    font-family: "Avenir Next";
 }
-#about p {
+#header p {
+    text-align: center;
+    font-family: "Avenir Next";
+    font-size: 28px;
+}
+p {
     font-family: "Avenir Next";
     text-align: justify;
 }
@@ -13,13 +16,40 @@
     max-width: 30em;
 }
 #pic {
+    text-align: center;
+}
+#links {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    padding-top: 3px;
+
 }
-
-
-a {
-    color: black;
+#links a {
+    padding: 10px;
+}
+#nav {
+    padding-top: 10px;
+    padding-right: 60px;
+}
+#nav a{
+    float: right;
+}
+a:hover {
     font-weight: bold;
 }
+a:visited {
+    color: black;
+}
+#intro {
+    padding-top: 100px;
+}
+#intro p {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+
+
