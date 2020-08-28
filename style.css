@@ -34,6 +34,7 @@ p {
 }
 #nav a{
     float: right;
+    color: black;
 }
 a:hover {
     font-weight: bold;
