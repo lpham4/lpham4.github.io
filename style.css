@@ -1,15 +1,19 @@
 html {
     font-family: "Avenir Next";
 }
-#header p {
+#header p{
     text-align: center;
     font-family: "Avenir Next";
     font-size: 28px;
 }
-p {
+#header2 p{
+
+    text-align: center;
     font-family: "Avenir Next";
-    text-align: justify;
+    font-size: 28px;
+
 }
+
 #about {
     margin-left: auto;
     margin-right: auto;
@@ -18,11 +22,23 @@ p {
 #pic {
     text-align: center;
 }
+#school {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30em;
+
+
+}
+#education {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30em;
+}
 #links {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    padding-top: 3px;
+    padding-top: 10px;
 
 }
 #links a {
@@ -42,15 +58,3 @@ a:hover {
 a:visited {
     color: black;
 }
-#intro {
-    padding-top: 100px;
-}
-#intro p {
-    text-align: center;
-    font-size: 50px;
-}
-
-
-
-
-
