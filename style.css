@@ -24,6 +24,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     max-width: 30em;
+    background-color: #f5fffa;
 }
 #pic {
     text-align: center;
@@ -33,7 +34,8 @@ html {
 
     margin-left: auto;
     margin-right: auto;
-     max-width: 30em;
+    max-width: 30em;
+    background-color: #faf0e6;
 
 
 }
@@ -41,17 +43,28 @@ html {
     margin-left: auto;
     margin-right: auto;
     max-width: 30em;
+    background-color: #faf0e6;
 }
 #projects {
     margin-left: auto;
     margin-right: auto;
     max-width: 30em;
+    background-color: #f5fffa;
 }
+
+
 #links {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     padding-top: 30px;
+
+}
+#credits {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;
 
 }
 #links a {
@@ -70,4 +83,7 @@ a:hover {
 }
 a:visited {
     color: black;
+}
+ul {
+    list-style-type: circle;
 }
